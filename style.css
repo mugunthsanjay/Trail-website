@@ -1,0 +1,22 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    margin-top: 200px;
+    margin-bottom: 10px;
+}
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 5px;
+}
+div{
+    text-align: center;
+    margin-top: 7px;
+}
+button{
+    border: solid 1px gray;
+}
