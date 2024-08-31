@@ -12,11 +12,14 @@ input{
     margin-right: auto;
     width: 400px;
     padding: 5px;
+    border-radius: 25px;
+    border: solid 1px gray;
 }
 div{
     text-align: center;
-    margin-top: 7px;
+    margin-top: 10px;
 }
 button{
     border: solid 1px gray;
+   
 }
